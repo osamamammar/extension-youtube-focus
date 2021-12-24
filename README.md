@@ -12,17 +12,19 @@
 
   <a href="https://github.com/osamamammar/extension-youtube-focus/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+
   </a>
 
   <a href="https://twitter.com/osamamammar">
     <img alt="Twitter: osamamammar" src="https://img.shields.io/twitter/follow/osamamammar.svg?style=social" target="_blank" />
   </a>
 </p>
-  <img alt="extension logo" src="https://raw.githubusercontent.com/osamamammar/extension-youtube-focus/main/images/big-icon.png" width="100" height="100"style="display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+<p align="center">
+  <img alt="extension logo" src="https://raw.githubusercontent.com/osamamammar/extension-youtube-focus/main/images/big-icon.png" width="100" height="100"style="
   margin-bottom: 20px;
   ">
+  </p>
 
 `YouTube Focus` is an extension for YouTube that remove home page and explore page that contains a lot of suggestions videos and allows you to <code>focus on</code> your `subscriptions videos` `only`.
 
@@ -44,10 +46,10 @@
   <li>you can now go to <code>youtube</code> and see the extension is working.</li>
   
 </ol>
-<img alt="" src="./images/extension-loaded.png" width= "200" style="  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+
+<p align="center">
+<img alt="" src="./images/extension-loaded.png" width= "50%">
+</p>
   
 ---
 
