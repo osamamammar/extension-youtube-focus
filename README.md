@@ -17,8 +17,12 @@
   <a href="https://twitter.com/osamamammar">
     <img alt="Twitter: osamamammar" src="https://img.shields.io/twitter/follow/osamamammar.svg?style=social" target="_blank" />
   </a>
-  <img alt="extension logo" src="https://raw.githubusercontent.com/osamamammar/extension-youtube-focus/main/images/big-icon.png" width="100" height="100"style="display:block"> 
 </p>
+  <img alt="extension logo" src="https://raw.githubusercontent.com/osamamammar/extension-youtube-focus/main/images/big-icon.png" width="100" height="100"style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  ">
 
 `YouTube Focus` is an extension for YouTube that remove home page and explore page that contains a lot of suggestions videos and allows you to <code>focus on</code> your `subscriptions videos` `only`.
 
