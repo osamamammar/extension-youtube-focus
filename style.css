@@ -1,0 +1,69 @@
+/* reset css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* *********************************** */
+/* style popup.js */
+/* *********************************** */
+.popup-page-container {
+  background-color: #f2f2f2;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.popup-page-container__img {
+  border-radius: 50%;
+}
+
+.popup-page-container__header {
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: black;
+}
+/* *********************************** */
+/* style option.js */
+/* *********************************** */
+.option-page-container {
+  background-color: #f2f2f2;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.option-page__title,
+.option-page__description {
+  font-size: 22px;
+}
+.option-page__title__version {
+  font-size: 12px;
+  color: #666;
+}
+.option-page-footer__link {
+  text-decoration: none;
+  color: #2c7db0;
+  font-size: 15px;
+  transition: all 0.1s ease-in-out;
+}
+.option-page-footer__link:hover {
+  color: #1094e7;
+}
+/* ****************************************************** */
+/* remove all youtube logos and home btn  */
+
+a[title="Home"],
+a[title="Explore"],
+#logo {
+  display: none !important;
+}
