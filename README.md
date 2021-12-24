@@ -50,7 +50,7 @@
 <img alt="extension loaded" src="./images/extension-loaded.png" width= "50%">
 </p>
   
-
+---
 
 ### Author
 
@@ -59,11 +59,11 @@
 - Twitter: [@osamamammar](https://twitter.com/osamamammar)
 - Github: [@osamamammar](https://github.com/osamamammar)
 
-#### Show your support
+### Show your support
 
 Please ⭐️ this repository if this project helped you!
 
-#### 📝 License
+### 📝 License
 
 Copyright © 2021 [osamamammar](https://github.com/osamamammar).<br />
 This project is [MIT](https://github.com/osamamammar/extension-youtube-focus/blob/main/LICENSE) licensed.
