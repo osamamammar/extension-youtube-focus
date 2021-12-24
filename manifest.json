@@ -1,0 +1,36 @@
+{
+  "name": "Youtube Focus",
+  "description": "YouTube Focus is an extension for YouTube that remove home page and explore page that contains a lot of suggestions videos and allows you to focus on your subscriptions videos only.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/icon16.png",
+      "32": "/images/icon32.png",
+      "48": "/images/icon48.png",
+      "128": "/images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/icon16.png",
+    "32": "/images/icon32.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+
+  "options_page": "options.html",
+  "homepage_url": "https://www.youtube.com/",
+  "content_scripts": [
+    {
+      "css": ["style.css"],
+      "js": ["popup.js"],
+      "matches": ["https://www.youtube.com/*"]
+    }
+  ]
+}
