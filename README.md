@@ -38,20 +38,19 @@
 
 <ol>
   <li><code>install</code> the extension.</li>
-  <li>Creating a <code>zip</code> file for our extension.</li>
   <li>open your browser and go to <code>chrome://extensions/ </code></li>
   <li>enable <code>developer mode.</code></li>
-  <li><code>click</code> on the <code>"Load unpacked extension"</code> <code>button</code> and select our zip file.</li>
+  <li><code>click</code> on the <code>"Load unpacked extension"</code> <code>button</code> and select our <code>extension</code> folder.</li>
   <li>you will see the <code>extension is loaded.</code></li>
   <li>you can now go to <code>youtube</code> and see the extension is working.</li>
   
 </ol>
 
 <p align="center">
-<img alt="" src="./images/extension-loaded.png" width= "50%">
+<img alt="extension loaded" src="./images/extension-loaded.png" width= "50%">
 </p>
   
----
+
 
 ### Author
 
@@ -63,10 +62,6 @@
 #### Show your support
 
 Please ⭐️ this repository if this project helped you!
-
-<a href="https://www.patreon.com/osamamammar">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 #### 📝 License
 
