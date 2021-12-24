@@ -28,7 +28,7 @@
 
 `YouTube Focus` is an extension for YouTube that remove home page and explore page that contains a lot of suggestions videos and allows you to <code>focus on</code> your `subscriptions videos` `only`.
 
----
+
 
 ## ✨ Demo
 
