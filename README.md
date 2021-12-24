@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total.svg">
-<img alt="manifest version" src="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total.svg">
+<img alt="downloads" src="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total.svg">
 </a>
 
   <a href="https://github.com/osamamammar/extension-youtube-focus/blob/main/LICENSE">
