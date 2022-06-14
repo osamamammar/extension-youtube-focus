@@ -6,13 +6,10 @@
 <img alt="manifest version" src="https://img.shields.io/github/manifest-json/v/osamamammar/extension-youtube-focus">
 </a>
 
-<a href="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total.svg">
-<img alt="downloads" src="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total.svg">
-</a>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/osamamammar/extension-youtube-focus/total?color=green">
 
   <a href="https://github.com/osamamammar/extension-youtube-focus/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg"/>
   </a>
 
   <a href="https://twitter.com/osamamammar">
